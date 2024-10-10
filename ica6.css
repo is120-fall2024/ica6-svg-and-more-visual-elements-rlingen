@@ -145,3 +145,16 @@ section .iframe {
 video{
   height:400px;
 }
+
+button{
+  background-color:rgba(var(--accent-rgb));
+}
+
+button:hover{
+  box-shadow: 1em 1em 1em black;
+  text-shadow: .2em .2em silver;
+}
+a:hover{
+  box-shadow: 1em 1em 1em black;
+  text-shadow: .2em .2em;
+}
