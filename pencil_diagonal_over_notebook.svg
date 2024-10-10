@@ -19,9 +19,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.7491562"
-     inkscape:cx="108.33795"
-     inkscape:cy="150.35822"
+     inkscape:zoom="1.1269767"
+     inkscape:cx="152.17706"
+     inkscape:cy="130.43748"
      inkscape:window-width="832"
      inkscape:window-height="723"
      inkscape:window-x="555"
@@ -39,136 +39,140 @@
          id="stop9" />
     </linearGradient>
   </defs>
-  <rect
-     fill="#f0e4d7"
-     height="148.03404"
-     stroke="#000000"
-     stroke-width="2"
-     width="141.86511"
-     x="49.836678"
-     y="49.836678"
-     id="rect1"
-     style="fill:#c3dbc5;fill-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="69.574547"
-     y2="69.574547"
-     id="line1"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="89.312424"
-     y2="89.312424"
-     id="line2"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="109.05029"
-     y2="109.05029"
-     id="line3"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="128.78816"
-     y2="128.78816"
-     id="line4"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="148.52603"
-     y2="148.52603"
-     id="line5"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="168.2639"
-     y2="168.2639"
-     id="line6"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <line
-     stroke="#a0a0a0"
-     stroke-width="0.836677"
-     x1="49.836678"
-     x2="191.70178"
-     y1="188.00177"
-     y2="188.00177"
-     id="line7"
-     style="stroke:#4d62ab;stroke-opacity:1" />
-  <rect
-     fill="#ffcc00"
-     height="9.4623737"
-     stroke="#000000"
-     stroke-width="1"
-     transform="matrix(-0.70515604,0.70905215,-0.70515604,-0.70905215,0,0)"
-     width="94.623741"
-     x="-107.10294"
-     y="-172.841"
-     id="rect7"
-     style="fill:#e8dcb9;fill-opacity:1" />
-  <polygon
-     fill="#6b4f39"
-     points="265,80 265,70 275,75 "
-     stroke="#000000"
-     stroke-width="1"
-     transform="matrix(-0.67510761,0.63466516,-0.67510761,-0.63466516,356.62201,-9.9638549)"
-     id="polygon7"
-     style="fill:#0d1b1e;fill-opacity:1" />
-  <rect
-     fill="#c0c0c0"
-     height="10"
-     stroke="#000000"
-     stroke-width="1"
-     transform="rotate(135)"
-     width="10"
-     x="-116.31678"
-     y="-172.80109"
-     id="rect8"
-     style="fill:#0d1b1e;fill-opacity:1" />
-  <rect
-     fill="#f28b82"
-     height="10"
-     stroke="#000000"
-     stroke-width="1"
-     transform="rotate(135)"
-     width="10"
-     x="-126.31678"
-     y="-172.80109"
-     id="rect9"
-     style="fill:#4d62ab;fill-opacity:1;stroke:#4d62ab;stroke-opacity:1" />
-  <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
-     id="path9"
-     cx="67.064865"
-     cy="78.527901"
-     r="8.8838615" />
-  <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
-     id="path9-1"
-     cx="67.383858"
-     cy="129.38388"
-     r="8.8838615" />
-  <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
-     id="path9-9"
-     cx="67.383858"
-     cy="175.38388"
-     r="8.8838615" />
+  <g
+     id="g10"
+     transform="matrix(0.56985486,0,0,0.69780727,-18.812243,-14.802724)">
+    <rect
+       fill="#f0e4d7"
+       height="148.03404"
+       stroke="#000000"
+       stroke-width="2"
+       width="141.86511"
+       x="49.836678"
+       y="49.836678"
+       id="rect1"
+       style="fill:#c3dbc5;fill-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="69.574547"
+       y2="69.574547"
+       id="line1"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="89.312424"
+       y2="89.312424"
+       id="line2"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="109.05029"
+       y2="109.05029"
+       id="line3"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="128.78816"
+       y2="128.78816"
+       id="line4"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="148.52603"
+       y2="148.52603"
+       id="line5"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="168.2639"
+       y2="168.2639"
+       id="line6"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <line
+       stroke="#a0a0a0"
+       stroke-width="0.836677"
+       x1="49.836678"
+       x2="191.70178"
+       y1="188.00177"
+       y2="188.00177"
+       id="line7"
+       style="stroke:#4d62ab;stroke-opacity:1" />
+    <rect
+       fill="#ffcc00"
+       height="9.4623737"
+       stroke="#000000"
+       stroke-width="1"
+       transform="matrix(-0.70515604,0.70905215,-0.70515604,-0.70905215,0,0)"
+       width="94.623741"
+       x="-107.10294"
+       y="-172.841"
+       id="rect7"
+       style="fill:#e8dcb9;fill-opacity:1" />
+    <polygon
+       fill="#6b4f39"
+       points="275,75 265,80 265,70 "
+       stroke="#000000"
+       stroke-width="1"
+       transform="matrix(-0.67510761,0.63466516,-0.67510761,-0.63466516,356.62201,-9.9638549)"
+       id="polygon7"
+       style="fill:#0d1b1e;fill-opacity:1" />
+    <rect
+       fill="#c0c0c0"
+       height="10"
+       stroke="#000000"
+       stroke-width="1"
+       transform="rotate(135)"
+       width="10"
+       x="-116.31678"
+       y="-172.80109"
+       id="rect8"
+       style="fill:#0d1b1e;fill-opacity:1" />
+    <rect
+       fill="#f28b82"
+       height="10"
+       stroke="#000000"
+       stroke-width="1"
+       transform="rotate(135)"
+       width="10"
+       x="-126.31678"
+       y="-172.80109"
+       id="rect9"
+       style="fill:#4d62ab;fill-opacity:1;stroke:#4d62ab;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
+       id="path9"
+       cx="67.064865"
+       cy="78.527901"
+       r="8.8838615" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
+       id="path9-1"
+       cx="67.383858"
+       cy="129.38388"
+       r="8.8838615" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#c3dbc5;stroke-opacity:1"
+       id="path9-9"
+       cx="67.383858"
+       cy="175.38388"
+       r="8.8838615" />
+  </g>
 </svg>
