@@ -74,6 +74,7 @@ header {
 .hero {
   height: 90vh;
   background-color: rgb(var(--secondary-rgb));
+  position: relative;
 }
 
 .left-video {
@@ -111,6 +112,7 @@ header {
   font-size: 1.5em;
   margin-left: 3vw;
   text-decoration: none;
+  font-family: Arial, sans-serif;
 }
 
 .right-button button {
@@ -148,6 +150,7 @@ video{
 
 button{
   background-color:rgba(var(--accent-rgb));
+  font-family: Arial, sans-serif;
 }
 
 button:hover{
@@ -157,4 +160,25 @@ button:hover{
 a:hover{
   box-shadow: 1em 1em 1em black;
   text-shadow: .2em .2em;
+}
+
+.custom-shape-divider-bottom-1728596133 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1728596133 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 136px;
+}
+
+.custom-shape-divider-bottom-1728596133 .shape-fill {
+  fill: #28242D;
 }
